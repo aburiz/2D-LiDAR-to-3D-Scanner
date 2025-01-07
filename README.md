@@ -543,7 +543,7 @@ ros2 launch my_3d_lidar_pkg scan3d.launch.py
 
 ## License
 
-Licensed under [Apache 2.0](LICENSE) or the license of your choice.
+Licensed under [Apache 2.0](LICENSE)
 
 ---
 
